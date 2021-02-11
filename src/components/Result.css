@@ -1,0 +1,17 @@
+.Result{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 20px;
+    border: 2px;
+    border-top: 2px solid gray;
+    color: white;
+}
+
+.Result h3, .Result h4{
+    font-weight: normal;
+    color: white;
+}
+
+.Result em{
+    font-weight: bold;
+}

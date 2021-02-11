@@ -1,0 +1,21 @@
+.App input{
+    margin: 20px;
+    padding: 10px 20px;
+    border: 2px solid gray;
+    border-radius: 3px;
+    background-color: rgb(50, 47, 51);
+    transition: .3s;
+    text-align: center;
+    color: white;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
